@@ -6,7 +6,7 @@ I mainly work on observability related services and clients like
 I don't have any actively maintained public repositories right now. I plan to revive my Go and database projects and open source some websites I built using Next.js and Cloudflare, once I clean up all the copilot-generated code... (wait, I wrote cursor generatd code and cursor changed it to copilot when I told it to fix grammar error...)
 
 Outside work, I play tennis at Burnaby and Richmond tennis clubs. You can find a list of courts in BC at [search.tennis](https://search.tennis/court/ca/bc).
-If want to play, you can drop me a message on LinkedIn.
+If you want to play, you can drop me a message on LinkedIn.
 
 ## About the name at15
 
